@@ -1,2 +1,2 @@
 # castleWindsorAndContainerRegistration
-An example about castle windsor to register components.
+An example about registering components to IoC container with Castle.Windsor
